@@ -38,6 +38,7 @@
 ### :dvd: [Plantilla de la práctica en _docs/template-webflux.zip_](docs/template-webflux.zip)
 
 ### :page_with_curl: IWVG. Devops. Enunciado de la práctica
+> Todo el software deberá estar en ingles.
 
 #### 1. Crear un proyecto (**0.5 pto**)
 Crear un proyecto Maven llamado: **iwvg-devops-nombre-apellido**, versión **1.0.0**. Para ello se aporta **zip** de la plantilla.
@@ -101,6 +102,7 @@ Se crearán las siguientes 4 historias (**Issues**).
 * Gestión adecuada, completa y equlibrada (estimación, tiempo real...) durante el desarrollo. **Hasta -2 ptos**. 
 * Commits correctos y completos. **Hasta -2 ptos**. 
 * Código limpio, bien formateado y ordenado. **Hasta -2 ptos**. 
+* Uso del ingles. **Hasta -1 pto**.
 
 
 ### :clap: Entraga de la práctica
